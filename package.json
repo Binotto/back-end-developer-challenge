@@ -12,7 +12,7 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matheus Binotto",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
