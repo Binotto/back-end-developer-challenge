@@ -4,7 +4,7 @@ O mesmo está configurado para aceitar os dados no formato JSON. :octocat:
 Comando para efetuar um clone desse repositório:
 
 ```sh
-https://github.com/Binotto/node-boilerplate-user-registration-v1.git
+git clone https://github.com/Binotto/node-boilerplate-user-registration-v1.git
 
 ```
 
